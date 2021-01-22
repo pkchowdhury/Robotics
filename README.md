@@ -1,1 +1,2 @@
-# Robotics-Proejct1
+# Android Controlled Obstacle Avoiding Robot
+The robot can sense any kind of obstacle in its path and is able to avoid for free running. The robot is controlled by the precomputation of Arduino for an obstacles-free path. We can also use our robot manually. When a desired path is needed, the robot can be controlled by Bluetooth devices. So, the robot can detect any obstacle both automatically and manually.
